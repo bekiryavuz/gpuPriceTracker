@@ -8,4 +8,4 @@ try:
     getData()
     checkProduct()
 finally:
-    print("işlem tamamlandı")
+    print("done")
