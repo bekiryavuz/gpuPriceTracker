@@ -3,9 +3,6 @@ from getData import *
 
 
 
-""" test"""
-
-
 def checkProduct():
     a , b = 0 , 0
     for i in range(len(product)):
