@@ -1,5 +1,5 @@
 # Gpu Price Tracker
 
-## Amd or Nvidia
+## ***Amd or Nvidia***
 
-
+[Amazon Jp](https://amazon.co.jp)
