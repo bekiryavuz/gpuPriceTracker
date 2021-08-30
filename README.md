@@ -2,4 +2,4 @@
 
 ## Amd or Nvidia
 
-[link] (https://www.google.com)
+
